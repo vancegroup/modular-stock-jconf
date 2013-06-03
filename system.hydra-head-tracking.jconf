@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?org-vrjuggler-jccl-settings configuration.version="3.0"?>
+<configuration xmlns="http://www.vrjuggler.org/jccl/xsd/3.0/configuration" name="Configuration" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vrjuggler.org/jccl/xsd/3.0/configuration http://www.vrjuggler.org/jccl/xsd/3.0/configuration.xsd">
+   
+  <include>base.keyboard.jconf</include>
+  <include>base.esc-exits.jconf</include>
+  <include>base.simulated-analog.jconf</include>
+  <include>mixin.simview.jconf</include>
+  <include>device.razer-hydra-filter0.jconf</include>
+  <include>role.hydra-left-as-wand.jconf</include>
+  <include>role.hydra-right-as-headtracker.jconf</include>
+  <include>display.fishtank-1280-1024.jconf</include>
+  <include>base.user1.jconf</include>
+  <elements />
+</configuration>
+

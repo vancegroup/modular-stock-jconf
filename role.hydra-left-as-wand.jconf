@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?org-vrjuggler-jccl-settings configuration.version="3.0"?>
+<configuration xmlns="http://www.vrjuggler.org/jccl/xsd/3.0/configuration" name="Configuration" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vrjuggler.org/jccl/xsd/3.0/configuration http://www.vrjuggler.org/jccl/xsd/3.0/configuration.xsd">
+   <elements>
+      <alias name="VJWand" version="1">
+         <proxy>HydraLeftController</proxy>
+      </alias>
+      <alias name="VJButton0" version="1">
+         <proxy>HydraLeftMiddleButton</proxy>
+      </alias>
+      <alias name="VJButton1" version="1">
+         <proxy>HydraLeftButton1</proxy>
+      </alias>
+      <alias name="VJButton2" version="1">
+         <proxy>HydraLeftButton2</proxy>
+      </alias>
+      <alias name="VJButton3" version="1">
+         <proxy>HydraLeftButton3</proxy>
+      </alias>
+      <alias name="VJButton4" version="1">
+         <proxy>HydraLeftButton4</proxy>
+      </alias>
+      <alias name="Bumper" version="1">
+         <proxy>HydraLeftBumper4</proxy>
+      </alias>
+      <alias name="Trigger" version="1">
+         <proxy>HydraRightTrigger4</proxy>
+      </alias>
+   </elements>
+</configuration>
