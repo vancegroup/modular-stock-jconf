@@ -4,7 +4,7 @@
    
   <include>base.esc-exits.jconf</include>
   <include>base.keyboard.jconf</include>
-  <include>base.mosue-as-buttons.jconf</include>
+  <include>base.mouse-as-buttons.jconf</include>
   <include>base.simulated-analog.jconf</include>
   <include>base.simulated-camera.jconf</include>
   <include>base.simulated-head.jconf</include>
