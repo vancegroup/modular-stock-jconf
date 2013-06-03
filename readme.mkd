@@ -8,3 +8,13 @@ The ones you probably want to use are the `system.*.jconf` files - they have no 
 - `system.hydra-head-tracking.jconf` - Allows use of the Razer Hydra for head (right controller, modified) and wand input, accessing Tracker0@localhost and Filter0@localhost (for filtered tracking data from new VRPN builds). By default, it shows a 5:4 aspect ratio full screen, simulating a 1m by .8m screen. Place the tracker base about .25m away from the monitor, in its center. Use will simulate average standing height (the base is stated to be at 1.5m above the ground).
 
 - `system.simulator.jconf` - This is roughly equivalent to `standalone.jconf` but it does not load the CORBA plugin.
+
+Aspect Ratios
+-------------
+
+Here are some sample resolutions to help you figure out your aspect ratio.
+
+- 4:3 - 1600x1200, 800x600
+- 5:4 - 1280x1024
+- 16:9 - 1920x1080
+- 16:10 - most common widescreen aspect ratio for computer screens.
