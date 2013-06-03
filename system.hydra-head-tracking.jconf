@@ -4,12 +4,10 @@
    
   <include>base.keyboard.jconf</include>
   <include>base.esc-exits.jconf</include>
-  <include>base.simulated-analog.jconf</include>
-  <include>mixin.simview.jconf</include>
   <include>device.razer-hydra-filter0.jconf</include>
   <include>role.hydra-left-as-wand.jconf</include>
   <include>role.hydra-right-as-headtracker.jconf</include>
-  <include>display.fishtank-1280-1024.jconf</include>
+  <include>display.fishtank-5-4-aspect.jconf</include>
   <include>base.user1.jconf</include>
   <elements />
 </configuration>
