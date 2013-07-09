@@ -21,10 +21,19 @@
          <proxy>HydraLeftButton4</proxy>
       </alias>
       <alias name="Bumper" version="1">
-         <proxy>HydraLeftBumper4</proxy>
+         <proxy>HydraLeftBumper</proxy>
       </alias>
       <alias name="Trigger" version="1">
-         <proxy>HydraRightTrigger4</proxy>
+         <proxy>HydraLeftTrigger</proxy>
+      </alias>
+      <alias name="StickButton" version="1">
+         <proxy>HydraLeftJSButton</proxy>
+      </alias>
+      <alias name="StickX" version="1">
+         <proxy>HydraLeftJSX</proxy>
+      </alias>
+      <alias name="StickY" version="1">
+         <proxy>HydraLeftJSY</proxy>
       </alias>
    </elements>
 </configuration>
