@@ -9,8 +9,8 @@
       </input_manager>
       <vrpn name="RazerHydra" version="2">
          <tracker_server>Filter0@localhost</tracker_server>
-         <button_server>Tracker0@localhost</button_server>
-         <analog_server>Tracker0@localhost</analog_server>
+         <button_server>Hydra0@localhost</button_server>
+         <analog_server>Hydra0@localhost</analog_server>
          <tracker_count>2</tracker_count>
          <button_count>14</button_count>
          <analog_count>8</analog_count>
