@@ -9,6 +9,8 @@ The ones you probably want to use are the `system.*.jconf` files - they have no 
 
 - `system.simulator.jconf` - This is roughly equivalent to `standalone.jconf` but it does not load the CORBA plugin.
 
+- `system.hydra-two-handed-wiimote-headtracker.jconf` - Allows use of the Razer Hydra for interaction (left controller as wand), and WiiMote for head tracking.  Simmilar to Hydra head tracking, the base should be placed 0.25 meters from the center of the screen.  The WiiMote should be positioned to the right of the Hydra about 0.16 meters.
+
 Aspect Ratios
 -------------
 
