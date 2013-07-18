@@ -4,7 +4,7 @@
    
   <include>base.keyboard.jconf</include>
   <include>base.esc-exits.jconf</include>
-  <include>device.razer-hydra.jconf</include>
+  <include>device.razer-hydra-filter0.jconf</include>
   <include>role.hydra-left-as-wand.jconf</include>
   <include>role.hydra-right-as-headtracker.jconf</include>
   <include>display.fishtank-5-4-aspect.jconf</include>
