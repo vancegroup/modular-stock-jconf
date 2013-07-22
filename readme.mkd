@@ -11,6 +11,8 @@ The ones you probably want to use are the `system.*.jconf` files - they have no 
 
 - `system.hydra-two-handed-wiimote-headtracker.jconf` - Allows use of the Razer Hydra for interaction (left controller as wand), and WiiMote for head tracking.  Simmilar to Hydra head tracking, the base should be placed 0.25 meters from the center of the screen.  The WiiMote should be positioned to the right of the Hydra about 0.16 meters.
 
+- `system.kinect-head-tracking.jconf` - Allows the use of a Kinect for tracking and interaction.  Similar to the Hydra head tracking, the Kinect should be placed 0.25 meters from the center of the screen.
+
 Aspect Ratios
 -------------
 
