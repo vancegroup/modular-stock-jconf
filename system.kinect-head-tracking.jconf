@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?org-vrjuggler-jccl-settings configuration.version="3.0"?>
+<configuration xmlns="http://www.vrjuggler.org/jccl/xsd/3.0/configuration" name="Configuration" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vrjuggler.org/jccl/xsd/3.0/configuration http://www.vrjuggler.org/jccl/xsd/3.0/configuration.xsd">
+   
+  <include>base.keyboard.jconf</include>
+  <include>base.esc-exits.jconf</include>
+  <include>device.kinect.jconf</include>
+  <include>base.simulated-head.jconf</include>
+  <include>role.kinect-as-headtracker.jconf</include>
+  <include>display.fishtank-5-4-aspect.jconf</include>
+  <include>base.user1.jconf</include>
+  <elements />
+</configuration>
+

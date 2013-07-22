@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?org-vrjuggler-jccl-settings configuration.version="3.0"?>
+<configuration xmlns="http://www.vrjuggler.org/jccl/xsd/3.0/configuration" name="device.kinect-proxies.jconf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vrjuggler.org/jccl/xsd/3.0/configuration http://www.vrjuggler.org/jccl/xsd/3.0/configuration.xsd">
+   <elements>
+	  <position_proxy name="KinectLeftHand" version="1">
+         <device>Kinect</device>
+         <unit>8</unit>
+      </position_proxy>
+      <position_proxy name="KinectRightHand" version="1">
+         <device>Kinect</device>
+         <unit>14</unit>
+      </position_proxy>	  
+	  <digital_proxy name="RightGrasp" version="1">
+         <device>Kinect</device>
+         <unit>0</unit>
+      </digital_proxy>
+	  <digital_proxy name="LeftGrasp" version="1">
+         <device>Kinect</device>
+         <unit>1</unit>
+      </digital_proxy>
+   </elements>
+</configuration>
+
