@@ -5,7 +5,7 @@ These jconf files, suitable for use with VR Juggler 3.0, are intended to support
 
 The ones you probably want to use are the `system.*.jconf` files - they have no configuration elements of their own, but rather they include other config files as appropriate to set up the system described.
 
-- `system.hydra-head-tracking.jconf` - Allows use of the Razer Hydra for head (right controller, modified) and wand input, accessing Hydra0@localhost and Filter0@localhost (for filtered tracking data from new VRPN builds). By default, it shows a 5:4 aspect ratio full screen, simulating a 1m by .8m screen. Place the tracker base about .32m away from the monitor, in its center. Use will simulate average standing height (the base is stated to be at 1.5m above the ground).
+- `system.hydra-head-tracking.jconf` - Allows use of the Razer Hydra for head (right controller, modified) and wand input, accessing Hydra0@localhost and Filter0@localhost (for filtered tracking data from new VRPN builds). By default, it shows a 5:4 aspect ratio full screen, simulating a 1m by .8m screen. Place the tracker base about .32m away from the monitor, in its center. Use will simulate average standing height (the base is stated to be at 1.69m above the ground).
 
 - `system.simulator.jconf` - This is roughly equivalent to `standalone.jconf` but it does not load the CORBA plugin.
 

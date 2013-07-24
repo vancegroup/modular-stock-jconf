@@ -14,7 +14,7 @@
          <position_filters>
             <position_transform_filter name="Position Filters" version="1">
                <pre_translate>0.16</pre_translate>
-               <pre_translate>1.5</pre_translate>
+               <pre_translate>1.69</pre_translate>
                <pre_translate>0.32</pre_translate>
                <pre_rotation>0.0</pre_rotation>
                <pre_rotation>0.0</pre_rotation>
