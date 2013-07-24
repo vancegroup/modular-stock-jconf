@@ -43,17 +43,17 @@
                <size>1.0</size>
                <size>1.0</size>
                <view>Left Eye</view>
-               <lower_left_corner>-0.13461973076081</lower_left_corner>
-               <lower_left_corner>1.4</lower_left_corner>
+               <lower_left_corner>-0.21539156921729</lower_left_corner>
+               <lower_left_corner>1.69</lower_left_corner>
                <lower_left_corner>0.0</lower_left_corner>
-               <lower_right_corner>0.13461973076081</lower_right_corner>
-               <lower_right_corner>1.4</lower_right_corner>
+               <lower_right_corner>0.21539156921729</lower_right_corner>
+               <lower_right_corner>1.69</lower_right_corner>
                <lower_right_corner>0.0</lower_right_corner>
-               <upper_right_corner>0.13461973076081</upper_right_corner>
-               <upper_right_corner>1.8307831384346</upper_right_corner>
+               <upper_right_corner>0.21539156921729</upper_right_corner>
+               <upper_right_corner>1.9592394615216</upper_right_corner>
                <upper_right_corner>0.0</upper_right_corner>
-               <upper_left_corner>-0.13461973076081</upper_left_corner>
-               <upper_left_corner>1.8307831384346</upper_left_corner>
+               <upper_left_corner>-0.21539156921729</upper_left_corner>
+               <upper_left_corner>1.9592394615216</upper_left_corner>
                <upper_left_corner>0.0</upper_left_corner>8               <user>User1</user>
                <active>true</active>
                <tracked>false</tracked>

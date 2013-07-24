@@ -31,7 +31,9 @@ widthHeight = function(diagonal, ratio)
 	return width, height
 end
 
-bottomHeight = 1.4
+-- Average of average male and female adult height in US ~1.7 m, so we want the display to roughly simulate that.
+-- Monitors are on the order of 20 cm tall, so the bottom could reasonably be at 1.69m
+bottomHeight = 1.69
 
 inchToMeter = function(inch) return inch * .0254 end
 
@@ -85,7 +87,7 @@ getStart = function(x, y)
 ]]):format(x, y)
 end
 
-getCorners = function(h, w)
+getCorners = function(w, h)
 	local cornerSubstitutions = {
 		bottom = bottomHeight,
 		top = bottomHeight + h,
