@@ -16,8 +16,8 @@
                <custom_scale>1.0</custom_scale>
                <device_units>1.0</device_units>
                <post_translate>0.05</post_translate>
-               <post_translate>0.0</post_translate>
-               <post_translate>0.05</post_translate>
+               <post_translate>0.15</post_translate>
+               <post_translate>0.25</post_translate>
                <post_rotation>0.0</post_rotation>
                <post_rotation>180.0</post_rotation>
                <post_rotation>-90.0</post_rotation>
